@@ -1,3 +1,6 @@
+part2 are the exercises 1.6 to 1.11
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
